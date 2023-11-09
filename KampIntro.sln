@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Mate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{BFA0DE8A-13ED-436A-9537-4BE1DC5F53D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{DC6F5CE5-7D81-4F80-BF07-E98044B95C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{15A23D48-DB05-4076-92F6-B0F523F53681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{334F7926-DD4D-4A1E-8B65-4087110D95B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +39,18 @@ Global
 		{BFA0DE8A-13ED-436A-9537-4BE1DC5F53D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFA0DE8A-13ED-436A-9537-4BE1DC5F53D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFA0DE8A-13ED-436A-9537-4BE1DC5F53D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC6F5CE5-7D81-4F80-BF07-E98044B95C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6F5CE5-7D81-4F80-BF07-E98044B95C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6F5CE5-7D81-4F80-BF07-E98044B95C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6F5CE5-7D81-4F80-BF07-E98044B95C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15A23D48-DB05-4076-92F6-B0F523F53681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A23D48-DB05-4076-92F6-B0F523F53681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A23D48-DB05-4076-92F6-B0F523F53681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A23D48-DB05-4076-92F6-B0F523F53681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334F7926-DD4D-4A1E-8B65-4087110D95B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334F7926-DD4D-4A1E-8B65-4087110D95B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334F7926-DD4D-4A1E-8B65-4087110D95B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334F7926-DD4D-4A1E-8B65-4087110D95B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
